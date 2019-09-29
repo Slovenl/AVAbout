@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AVAbout.iml" filepath="$PROJECT_DIR$/AVAbout.iml" />
       <module fileurl="file://$PROJECT_DIR$/AudioRecorderLib/AudioRecorderLib.iml" filepath="$PROJECT_DIR$/AudioRecorderLib/AudioRecorderLib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MediaDemo/MediaDemo.iml" filepath="$PROJECT_DIR$/MediaDemo/MediaDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/libWSLive/libWSLive.iml" filepath="$PROJECT_DIR$/libWSLive/libWSLive.iml" />
     </modules>
