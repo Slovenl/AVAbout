@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    >
+
+    <TextView
+        android:id="@+id/record_tip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="点击录制声音"
+        android:textSize="20dp"
+        android:textColor="#666666"
+        android:layout_margin="20dp"
+        />
+
+    <Button
+        android:id="@+id/record_in_java"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="java层采集"
+        android:layout_margin="20dp"
+        />
+
+    <Button
+        android:id="@+id/record_in_jni"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="native层采集"
+        android:layout_margin="20dp"
+        />
+
+    <Button
+        android:id="@+id/record_stop"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="停止采集"
+        android:layout_margin="20dp"
+        android:clickable="false"
+        />
+
+</LinearLayout>

@@ -1,0 +1,3 @@
+[submodule "AudioRecorderLib"]
+	path = AudioRecorderLib
+	url = https://github.com/net168/AudioRecorderLib.git

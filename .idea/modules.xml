@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidAudioRecordDemo.iml" filepath="$PROJECT_DIR$/AndroidAudioRecordDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AudioRecorderLib/AudioRecorderLib.iml" filepath="$PROJECT_DIR$/AudioRecorderLib/AudioRecorderLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MediaDemo/MediaDemo.iml" filepath="$PROJECT_DIR$/MediaDemo/MediaDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libWSLive/libWSLive.iml" filepath="$PROJECT_DIR$/libWSLive/libWSLive.iml" />
+    </modules>
+  </component>
+</project>
